@@ -33,4 +33,4 @@ Why This Matters
 Manual library preparation introduces variability and limits scalability.
 This project demonstrates how biological protocols can be translated into structured, programmable systems suitable for automated, high-throughput environments.
 
-GitHub Repository: https://github.com/shraavyamc/automation-ready-ngs-workflow
+GitHub Repository: [View Repository](https://github.com/shraavyamc/automation-ready-ngs-workflow)
